@@ -6,12 +6,6 @@ The goal here is to allow participants of the workshop to have a solid foundatio
 We will be covering Python in this workshop. Python is one of many programming languages, and is extensively used in machine learning and data science. Most postgraduate computer science courses also use Python.
 It is a language that has relatively simple syntax, and great support/libraries.
 
-## Lecturers
-Simon Rosen & ...
-
-### Contact
-For the workshop attendees, if you have any questions with regard to the workshop you can contact Simon Rosen at: 1391995@students.wits.ac.za.
-- Please note that due to the volume of emails, emails from non attendees of the workshop are unlikely to be responded to.
 
 ## General Flow
 The workshop will be over 4 days, with Tuesday and Friday being half days and Wednesday and Thursday being full days.
